@@ -18,7 +18,11 @@ main{
 
 h1{
   font-size: 50px;
+<<<<<<< HEAD
   font-family: "Times New Roman";
+=======
+  font-family: Helvetica;
+>>>>>>> 63f95066ed27a65b90734b7fe603dd023ca838c7
   width:200px;
   margin-left: auto;
   margin-right: auto;
@@ -73,4 +77,8 @@ table.center {
   content: "";
   clear: both;
   display: table;
+}
+
+.image{
+  border: 5px solid white;
 }
