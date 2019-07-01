@@ -18,11 +18,7 @@ main{
 
 h1{
   font-size: 50px;
-<<<<<<< HEAD
-  font-family: "Times New Roman";
-=======
-  font-family: Helvetica;
->>>>>>> 63f95066ed27a65b90734b7fe603dd023ca838c7
+  font-family: "Comic Sans MS";
   width:200px;
   margin-left: auto;
   margin-right: auto;
