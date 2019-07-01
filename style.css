@@ -1,5 +1,6 @@
 body{
   background-color: black;
+  color: white;
 }
 
 h1{
@@ -7,7 +8,13 @@ h1{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  color: white;
+}
+
+h3{
+  width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 p {
@@ -15,7 +22,6 @@ p {
   width:600px;
   margin-left: auto;
   margin-right: auto;
-  color: white;
 }
 
 a {
@@ -23,6 +29,13 @@ a {
 }
 
 img {
+  width:600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
   width:600px;
   display: block;
   margin-left: auto;
