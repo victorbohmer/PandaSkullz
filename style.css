@@ -35,12 +35,12 @@ img {
   margin-right: auto;
 }
 
-table{
-  width:600px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
 
 .column {
   float: left;
