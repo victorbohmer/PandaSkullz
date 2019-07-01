@@ -50,6 +50,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 5px ridge white;
 }
 
 
@@ -75,6 +76,6 @@ table.center {
   display: table;
 }
 
-.image{
-  border: 5px solid white;
-}
+
+  
+
