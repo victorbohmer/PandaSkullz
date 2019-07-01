@@ -74,3 +74,7 @@ table.center {
   clear: both;
   display: table;
 }
+
+.image{
+  border: 5px solid white;
+}
